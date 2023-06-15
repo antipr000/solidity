@@ -19,7 +19,7 @@
   "dependencies": {
     "ganache-cli": "^6.12.2",
     "mocha": "^10.2.0",
-    "solc": "^0.4.17",
+    "solc": "^0.8.19",
     "web3": "^4.0.1"
   }
 }
